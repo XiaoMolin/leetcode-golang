@@ -1,0 +1,79 @@
+func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
+	list1 := l1
+	list2 := l2
+	list1 = list1.Next
+	list2 = list2.Next
+	var l ListNode = ListNode{Val: 0, Next: nil}
+	point := &l
+	var data int
+	var carry int = 0
+	for list1 != nil && list2 != nil {
+		data = (list1.Val+list2.Val)%10 + carry
+		if data == 10 {
+			data = 0
+		}
+		carry = (list1.Val + list2.Val + carry) / 10
+		var node ListNode  //新节点
+		point.Next = &node //赋值
+		node.Val = data
+		point = point.Next
+		list1 = list1.Next
+		list2 = list2.Next
+	}
+	if carry == 1 && list1 == nil && list2 == nil {
+		var node ListNode  //新节点
+		point.Next = &node //赋值
+		node.Val = carry
+		point = point.Next
+		carry = 0
+	}
+	if list1 == nil {
+		for list2 != nil {
+			data = list2.Val + carry
+			if data == 10 {
+				data = 0
+				carry = 1
+			}
+			var node ListNode  //新节点
+			point.Next = &node //赋值
+			node.Val = data
+			point = point.Next
+			list2 = list2.Next
+			if data != 0 {
+				carry = 0
+			}
+		}
+	}
+	if list2 == nil {
+		for list1 != nil {
+			data = list1.Val + carry
+			if data == 10 {
+				data = 0
+				carry = 1
+			}
+			var node ListNode  //新节点
+			point.Next = &node //赋值
+			node.Val = data
+			point = point.Next
+			list1 = list1.Next
+			if data != 0 {
+				carry = 0
+			}
+		}
+	}
+	if carry == 1 && data == 0 {
+		var node ListNode  //新节点
+		point.Next = &node //赋值
+		node.Val = carry
+		point = point.Next
+		carry = 0
+	}
+	pointt := &l //临时指针
+	pointt = pointt.Next
+	fmt.Println("bbbbbbbbbbbbbbbb")
+	for pointt != nil {
+		fmt.Println(pointt.Val)
+		pointt = pointt.Next //移位
+	}
+	return pointt
+}
