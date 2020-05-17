@@ -1,3 +1,3 @@
 # leetcode-golang
 
-asda
+力扣刷题记录
