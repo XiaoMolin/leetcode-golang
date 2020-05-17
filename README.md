@@ -1,6 +1,6 @@
 # leetcode-golang
 
-力扣刷题记录
+力扣刷题记录1
 
 
 
