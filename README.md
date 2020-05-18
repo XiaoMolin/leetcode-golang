@@ -6,4 +6,4 @@
 
 * [875. 爱吃香蕉的珂珂](../../tree/master/leetcode2/爱吃香蕉的珂珂/爱吃香蕉的珂珂.md)
 
-#### 
+* [1040. 移动石子直到连续II](../../tree/master/leetcode2/移动石子直到连续II/移动石子直到连续II.md)
