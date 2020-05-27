@@ -12,6 +12,8 @@
 
 - #### [动态规划](#Dp)
 
+- #### [哈希表](#hasmap)
+
 ------
 
 #### <span id="tree">树</span>
@@ -58,6 +60,18 @@
 
 
 
+#### <span id="hasmap">哈希表</span>
+
+| #           |                            Title                             | Difficulty | Algorithm |
+| ----------- | :----------------------------------------------------------: | :--------: | :-------: |
+| 面试题16.02 | [面试题16.02. 单词频率](../../tree/master/leetcode2/单词频率/单词频率.md) |   Medium   |  hsamap   |
+
+
+
+------
+
+
+
 
 ## 总列表
 
@@ -72,4 +86,5 @@
 * [1040. 移动石子直到连续II](../../tree/master/leetcode2/移动石子直到连续II/移动石子直到连续II.md)
 * [1162. 地图分析](../../tree/master/leetcode2/地图分析/地图分析.md)
 * [面试题01.03. URL化](../../tree/master/leetcode2/URL化/URL化.md)
+* [面试题16.02. 单词频率](../../tree/master/leetcode2/单词频率/单词频率.md)
 
