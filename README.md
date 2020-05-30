@@ -37,19 +37,20 @@
 
 #### <span id="Graph">图</span>
 
-| #    |                            Title                             | Difficulty |     Algorithm      |
-| ---- | :----------------------------------------------------------: | :--------: | :----------------: |
-| 1162 | [ 地图分析](../../tree/master/leetcode2/地图分析/地图分析.md) |   Medium   |       bfs/dp       |
+|  #   |                            Title                             | Difficulty |     Algorithm      |
+| :--: | :----------------------------------------------------------: | :--------: | :----------------: |
 | 547  |    [朋友圈](../../tree/master/leetcode2/朋友圈/朋友圈.md)    |   Medium   | bfs/dfs/Union-Find |
+| 1162 | [地图分析](../../tree/master/leetcode2/地图分析/地图分析.md) |   Medium   |       bfs/dp       |
 
 
 
 #### <span id="String">字符串</span>
 
-| #           |                            Title                             | Difficulty |  Algorithm   |
-| ----------- | :----------------------------------------------------------: | :--------: | :----------: |
-| 856         | [括号的分数](../../tree/master/leetcode2/括号的分数/括号的分数.md) |   Medium   |  stack/law   |
-| 539         | [最小时间差](../../tree/master/leetcode2/最小时间差/最小时间差.md) |   Medium   | sort/haspmap |
+|      #      |                            Title                             | Difficulty |  Algorithm   |
+| :---------: | :----------------------------------------------------------: | :--------: | :----------: |
+|     539     | [最小时间差](../../tree/master/leetcode2/最小时间差/最小时间差.md) |   Medium   | sort/haspmap |
+|     678     | [有效的括号字符串](../../tree/master/leetcode2/有效的括号字符串/有效的括号字符串.md) |   Medium   | greedy/dfs/  |
+|     856     | [括号的分数](../../tree/master/leetcode2/括号的分数/括号的分数.md) |   Medium   |  stack/law   |
 | 面试题01.03 |     [URL化](../../tree/master/leetcode2/URL化/URL化.md)      |    Easy    |    string    |
 
 
@@ -89,6 +90,7 @@
 * [539. 最小时间差](../../tree/master/leetcode2/最小时间差/最小时间差.md)
 * [547.朋友圈](../../tree/master/leetcode2/朋友圈/朋友圈.md)
 * [637. 二叉树的层平均值](../../tree/master/leetcode2/二叉树的层平均值/二叉树的层平均值.md)
+* [678. 有效的括号字符串](../../tree/master/leetcode2/有效的括号字符串/有效的括号字符串.md)
 * [808. 分汤](../../tree/master/leetcode2/分汤/分汤.md)
 * [856. 括号的分数](../../tree/master/leetcode2/括号的分数/括号的分数.md)
 * [875. 爱吃香蕉的珂珂](../../tree/master/leetcode2/爱吃香蕉的珂珂/爱吃香蕉的珂珂.md)
