@@ -46,12 +46,12 @@
 
 #### <span id="String">字符串</span>
 
-|      #      |                            Title                             | Difficulty |  Algorithm   |
-| :---------: | :----------------------------------------------------------: | :--------: | :----------: |
-|     539     | [最小时间差](../../tree/master/leetcode2/最小时间差/最小时间差.md) |   Medium   | sort/haspmap |
-|     678     | [有效的括号字符串](../../tree/master/leetcode2/有效的括号字符串/有效的括号字符串.md) |   Medium   | greedy/dfs/  |
-|     856     | [括号的分数](../../tree/master/leetcode2/括号的分数/括号的分数.md) |   Medium   |  stack/law   |
-| 面试题01.03 |     [URL化](../../tree/master/leetcode2/URL化/URL化.md)      |    Easy    |    string    |
+|      #      |                            Title                             | Difficulty |    Algorithm     |
+| :---------: | :----------------------------------------------------------: | :--------: | :--------------: |
+|     539     | [最小时间差](../../tree/master/leetcode2/最小时间差/最小时间差.md) |   Medium   |   sort/haspmap   |
+|     678     | [有效的括号字符串](../../tree/master/leetcode2/有效的括号字符串/有效的括号字符串.md) |   Medium   | greedy/dfs/stack |
+|     856     | [括号的分数](../../tree/master/leetcode2/括号的分数/括号的分数.md) |   Medium   |    stack/law     |
+| 面试题01.03 |     [URL化](../../tree/master/leetcode2/URL化/URL化.md)      |    Easy    |      string      |
 
 
 
