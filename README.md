@@ -32,6 +32,7 @@
 | ---- | :----------------------------------------------------------: | :--------: | :------------: |
 | 914  | [卡牌分组](../../tree/master/leetcode2/卡牌分组/卡牌分组.md) |    Easy    |    map&math    |
 | 984  | [ 令牌放置](../../tree/master/leetcode2/令牌放置/令牌放置.md) |   Medium   |     greedy     |
+| 1403 | [非递增顺序的最小子序列](../../tree/master/leetcode2/非递增顺序的最小子序列/非递增顺序的最小子序列.md) |    Easy    |      sort      |
 | 1040 | [移动石子直到连续II](../../tree/master/leetcode2/移动石子直到连续II/移动石子直到连续II.md) |   Medium   | double pointer |
 
 
@@ -99,6 +100,7 @@
 * [948. 令牌放置](../../tree/master/leetcode2/令牌放置/令牌放置.md)
 * [1040. 移动石子直到连续II](../../tree/master/leetcode2/移动石子直到连续II/移动石子直到连续II.md)
 * [1162. 地图分析](../../tree/master/leetcode2/地图分析/地图分析.md)
+* [1403. 非递增顺序的最小子序列](../../tree/master/leetcode2/非递增顺序的最小子序列/非递增顺序的最小子序列.md)
 * [1411. 给 N x 3 网格图涂色的方案数](../../tree/master/leetcode2/网格图涂色的方案数/网格图涂色的方案数.md)
 * [面试题01.03. URL化](../../tree/master/leetcode2/URL化/URL化.md)
 * [面试题16.02. 单词频率](../../tree/master/leetcode2/单词频率/单词频率.md)
