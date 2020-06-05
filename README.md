@@ -52,7 +52,7 @@
 
 |  #   |                            Title                             | Difficulty |  Algorithm   |
 | :--: | :----------------------------------------------------------: | :--------: | :----------: |
-|  86  | [分隔链表](../../tree/master/leetcode2/分隔链表/分隔链表.md) |   Medium   | two pointers |
+|  86  | [分隔链表](../../tree/master/leetcode2/分隔链表/分隔链表.MD) |   Medium   | two pointers |
 | 234  | [回文链表](../../tree/master/leetcode2/回文链表/回文链表.md) |    Easy    | two pointers |
 
 #### <span id="String">字符串</span>
