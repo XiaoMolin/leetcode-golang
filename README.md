@@ -24,6 +24,7 @@
 
 | #    |                            Title                             | Difficulty | Algorithm |
 | ---- | :----------------------------------------------------------: | :--------: | :-------: |
+| 129  | [求根到叶子节点数字之和](../../tree/master/leetcode2/求根到叶子节点数字之和/求根到叶子节点数字之和.md) |   Medium   |    dfs    |
 | 637  | [ 二叉树的层平均值](../../tree/master/leetcode2/二叉树的层平均值/二叉树的层平均值.md) |    Easy    |    bfs    |
 
 
@@ -100,6 +101,7 @@
 * [12. 整数转罗马数字](../../tree/master/leetcode2/整数转罗马数字/整数转罗马数字.md)
 * [13. 罗马数字转整数](../../tree/master/leetcode2/罗马数字转整数)
 * [86. 分隔链表](../../tree/master/leetcode2/分隔链表/分隔链表.md)
+* [求根到叶子节点数字之和](../../tree/master/leetcode2/求根到叶子节点数字之和/求根到叶子节点数字之和.md)
 * [234. 回文链表](../../tree/master/leetcode2/回文链表/回文链表.md)
 * [478. 在圆内随机生成点](../../tree/master/leetcode2/在圆内随机生成点/在圆内随机生成点.md)
 * [539. 最小时间差](../../tree/master/leetcode2/最小时间差/最小时间差.md)
